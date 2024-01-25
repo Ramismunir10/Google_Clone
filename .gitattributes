@@ -1,1 +1,2 @@
 *.dart linguist-detectable=true
+CMakeLists.txt linguist-detectable=false
